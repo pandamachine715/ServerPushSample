@@ -7,6 +7,6 @@
       }],
   "start_url": "./index.html?homescreen=1",
   "display": "standalone",
-  "gcm_sender_id": "<YOUR PROJECT NUMBER>",
+  "gcm_sender_id": "35364331747",
   "gcm_user_visible_only": true
 }
